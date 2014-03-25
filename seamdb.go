@@ -1,0 +1,3 @@
+package seamdb
+
+const VERSION = "0.1.0"

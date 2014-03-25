@@ -1,0 +1,7 @@
+[deps]
+github.com/smartystreets/goconvey=
+github.com/syndtr/goleveldb/leveldb=commit:527a7b286bd095794af6c519627b7ed3d8fd067a
+
+[res]
+include=conf
+
